@@ -1,0 +1,26 @@
+<style type="text/css">
+   
+   
+    
+    
+        
+   .badge-bg{
+            background: #f4f4f4 !important;
+            color : black !important;
+                font-size: 14px !important;
+               font-weight: normal !important;
+     }    
+     .spancolor{
+        background-color: #3074a6 !important;
+          color : white !important;
+    }
+    .span-text-color{
+        color : #A80F22 !important;
+    }
+    
+    .pointer {
+        cursor: pointer;
+    }
+ 
+
+</style>
